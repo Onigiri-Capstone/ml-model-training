@@ -16,7 +16,7 @@
 
 <p>This how our dataset looks like:</p>
 <p align="center">
-    <img src="contents/Dataset.png" alt="Dataset" height="250">
+    <img src="contents/Dataset.png" alt="Dataset" width="500">
 </p>
 
 <p>The dataset we use is obtained from scrapping process using <a href="https://pypi.org/project/bing-image-downloader/">bing-image-downloader</a>. The dataset we got from bing scrapping will be divided into train, validation, and test data.</p>
@@ -32,11 +32,11 @@
 
 <p>This is our training result:</p>
 <p align="center">
-    <img src="contents/training.png" alt="Training Result" height="250">
+    <img src="contents/training.png" alt="Training Result" width="500">
 </p>
 <p>And this is our learning curve:</p>
 <p align="center">
-    <img src="contents/learning_curve.png" alt="Learning Curve" height="250">
+    <img src="contents/learning_curve.png" alt="Learning Curve" width="500">
 </p>
 <p>You can see the detail of our training process and dataset that we use <a href="https://github.com/Onigiri-Capstone/ml-model-training/tree/main/transfer_learning_with_mobilenet.ipynb">here</a>.</p>
 
