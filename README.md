@@ -9,6 +9,10 @@
 - [Tensorflow](https://www.tensorflow.org/)
 - [Google Colab](https://colab.research.google.com/)
 
+## Data Exploration & Preparation
+<p>This notebook contains a classification of food data. Where for each jpg format data. The data we use is obtained through a scrapping process using bing scrapping. the data we get through bing scrapping will be divided into training data, validation data, and testing data.</p>
+<p>You can see the detail of our scrapping dataset <a href="https://github.com/Onigiri-Capstone/ml-model-training/tree/main">here</a>.</p>
+
 ## Technique Used
 
 ### Images Classification
